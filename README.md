@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamdakhalif
-- 👀 I’m interested in Learning new technologies and databases 
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on Python + Java Projects 
+- 👀 I’m interested in Learning Cloud (AWA/GCP/Azure)
+- 🌱 I’m currently learning Algeabric structures, rings and models 
+- 💞️ I’m looking to collaborate on Python, Java, C and  C++ both professionally and volountary
 - 📫 You can reach me on github >
 
 <!---
